@@ -1,0 +1,3 @@
+Creamos una clase que simbolizara nuestra interfaz gráfica y que tendrá en su interior dos menús.Además, para darle cierto orden y seguridad adicional, pondremos la clase UIMenu dentro de un package.
+Al hacer uso de paquetes en Java podemos darle orden y estructura a nuestros programas. Los paquetes en Java (packages) son la forma en la que Java nos permite agrupar de alguna manera lógica los componentes de nuestra aplicación que estén relacionados entre sí. 
+Este ejercicio para generar citas en un hospital es un ejemplo claro de modularidad al aplicar paquetes e interactuar con clases, objetos y métodos estáticos.
